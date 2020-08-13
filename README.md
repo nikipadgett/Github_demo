@@ -9,7 +9,6 @@ This is a practice Github repository
 - [ x ] 3.) Open the repository in your preferred text editor (I like Sublime)  
 - [ x ] 4.) Add an 'x' to the steps you've completed, and save  
 - [ x ] 5.) Add a commit message and 'Commit to master' 
-			# commit message 
 - [ x ] 6.) Push commit to Github. Do you see them reflected in your repository?  
 - [ ] 7.) Open Project in R Studio  
 - [ ] 8.) Create an R script file with some R code + save  
@@ -32,3 +31,4 @@ This is a practice Github repository
 - VIM
 - Atom
 - BBedit
+- emacs

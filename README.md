@@ -4,11 +4,12 @@ Learning Github - Aug 13 2020
 This is a practice Github repository
 
 ### Steps:  
-- [ ] 1.) Fork this repository into your own account  
-- [ ] 2.) Clone the forked copy of your repository to your local computer  
-- [ ] 3.) Open the repository in your preferred text editor (I like Sublime)  
-- [ ] 4.) Add an 'x' to the steps you've completed, and save  
-- [ ] 5.) Add a commit message and 'Commit to master'  
+- [ x ] 1.) Fork this repository into your own account  
+- [ x ] 2.) Clone the forked copy of your repository to your local computer  
+- [ x ] 3.) Open the repository in your preferred text editor (I like Sublime)  
+- [ x ] 4.) Add an 'x' to the steps you've completed, and save  
+- [ ] 5.) Add a commit message and 'Commit to master' 
+			# commit message 
 - [ ] 6.) Push commit to Github. Do you see them reflected in your repository?  
 - [ ] 7.) Open Project in R Studio  
 - [ ] 8.) Create an R script file with some R code + save  

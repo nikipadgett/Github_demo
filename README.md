@@ -11,7 +11,7 @@ This is a practice Github repository
 - [ x ] 5.) Add a commit message and 'Commit to master' 
 - [ x ] 6.) Push commit to Github. Do you see them reflected in your repository?  
 - [ x ] 7.) Open Project in R Studio  
-- [ x ] 8.) Create an R script file with some R code + save  
+- [ x ] 8.) Create an R script file with some R code + save  script and README.md
 - [ x ] 9.) Commit changes and push to Github  
 
 ### Good Resources:  

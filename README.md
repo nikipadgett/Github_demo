@@ -25,3 +25,10 @@ This is a practice Github repository
 - branches  
 - ignore files
 - resolving merge conflicts. 
+
+### Editor Recomendations
+- Sublime
+- Notepad++
+- VIM
+- Atom
+- BBedit
